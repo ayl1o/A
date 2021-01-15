@@ -4,7 +4,7 @@
   \author
     Markus Krauﬂe
     Email: wsn@fb2.fh-frankfurt.de
-
+	//Hallo das ist ein Kommentar
 ******************************************************************************/
 
 //#include <types.h>
